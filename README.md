@@ -15,8 +15,8 @@
 ## 📫 How to reach me
 
 - ✉️ [Email](mailto:luciagege7@gmail.com)
-- 💼 [LinkedIn]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/lucia-gege-amimeche-156b101a6/])
-- 🌐 [My Website]([https://yourwebsite.com](https://lucia1109.github.io/LuciaGege/])
+- 💼 [LinkedIn]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/lucia-gege-amimeche-156b101a6/))
+- 🌐 [My Website]([https://yourwebsite.com](https://lucia1109.github.io/LuciaGege/))
 
 Thanks for stopping by! ⭐
 
