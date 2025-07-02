@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**lucia1109/lucia1109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋, I'm Lucia Gege
 
-Here are some ideas to get you started:
+🎓 MSc Robotics & Smart Technologies | BSc Software Engineering  
+💻 I build smart IoT systems, machine learning apps & Data analytics dashboards.  
+🌍 Founder @ HAID Technologies — AI & smart tech for real-world impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects worth checking out
+
+- 🔬 **[Heart Attack Prediction System](https://github.com/lucia1109/heart-attack-predictor)** — ML & IoT to detect early signs of heart attacks.
+- 🏠 **[Smart Home Fire Detection](https://github.com/lucia1109/smart-fire-detection)** — A fire alarm system with sensor data & cloud alerts.
+- 📈 **[PhD Path Predictor](https://github.com/lucia1109/phd-path-predictor)** — Web scraper & dataset builder for PhD opportunities.
+
+## 📫 How to reach me
+
+- ✉️ [Email](mailto:luciagege7@gmail.com)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/lucia-gege-amimeche-156b101a6/])
+- 🌐 [My Website]([https://yourwebsite.com](https://lucia1109.github.io/LuciaGege/])
+
+Thanks for stopping by! ⭐
+
